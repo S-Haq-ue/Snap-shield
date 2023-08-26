@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227584060406",
+    "project_id": "snap-shield",
+    "storage_bucket": "snap-shield.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227584060406:android:e28ff981fe5c5da38875d7",
+        "android_client_info": {
+          "package_name": "com.example.snap_shield_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227584060406-89kfdakvvdpvev89e121fugsrbt03q93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbF5CBhxtoeo429JS1tmeFgpGXBBh3pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227584060406-89kfdakvvdpvev89e121fugsrbt03q93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
